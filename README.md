@@ -1,5 +1,11 @@
 # Address Book API
 
+## Code
+https://github.com/herenereh/address-book
+
+## Deployment
+https://address-book.heren.workers.dev
+
 ## Design
 
 **Stack:** [Hono](https://hono.dev) running on Cloudflare Workers, written in TypeScript. Request validation uses Zod through `@hono/zod-openapi`, and the Swagger UI comes from `@hono/swagger-ui`.
